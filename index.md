@@ -1,3 +1,7 @@
+<video  width="800" height="600" controls loop autoplay>
+    <source src="./111.mp4" type="video/mp4">
+</video>
+
 HTML: https://l1872427108.github.io/html
 
 CSS: https://l1872427108.github.io/css
