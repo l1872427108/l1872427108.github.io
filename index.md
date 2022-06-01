@@ -19,8 +19,3 @@ Webpack: https://l1872427108.github.io/webpack
 算法: https://l1872427108.github.io/sf
 
 Node: https://l1872427108.github.io/node
-
-
-<video width="320" height="240" controls loop>
-    <source src="./111.mp4" type="video/mp4"> 
-</video>
